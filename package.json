@@ -1,0 +1,2 @@
+{ "name": "video-download-api", "version": "1.0.0", "description": "API pour générer des liens de téléchargement direct depuis YouTube, Facebook et TikTok", "main": "server.js", "scripts": { "start": "node server.js" }, "dependencies": { "express": "^4.18.2", "ytdl-core": "^4.11.2", "fb-video-downloader": "^1.0.6", "tiktok-scraper": "^1.4.29" } }
+
